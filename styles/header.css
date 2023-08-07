@@ -34,14 +34,14 @@
 .container__botao:checked~.lista-menu{ 
     display: block;
 }
-.lista-menu__titulo{
+.lista-menu_titulo{
     color: var(--amarelo);
     font-weight: 700;
 }
-.lista-menu__item{
-    background: var(--roxo);
+.lista-menu_item{
+    background: var(--branco);
 }
-.lista-menu__titulo, .lista-menu__item{
+.lista-menu_titulo, .lista-menu_item{
     padding: 1em;
     background-color: var(--branco)
 }
