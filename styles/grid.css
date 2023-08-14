@@ -17,6 +17,9 @@
 }
 
 @media screen and (min-width: 1024px) {
+    .gridng{
+        background-color: #faecfc;
+    }
     .Imagem{
         border: 3px solid rgb(255, 117, 213);
         width: 180px!important;
