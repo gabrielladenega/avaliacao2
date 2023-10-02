@@ -1,5 +1,7 @@
 @import url(styles/header.css);
 @import url(styles/grid.css);
+@import url(styles/carrossel.css);
+
 :root{
     --cor-de-fundo: #faecfc;
     --branco: #ffffff;
